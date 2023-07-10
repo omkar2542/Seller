@@ -1,0 +1,16 @@
+
+
+.chart{
+    margin-left: 2%;
+    text-align: center;
+    height: 40vh;
+    width: 100%;
+    background-color: rgb(255, 255, 255);
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
+.circle{
+    padding-top: 10%;
+}
+.text1{
+  margin-top: -30%;
+}

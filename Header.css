@@ -1,0 +1,75 @@
+
+
+.header{
+    display: flex;
+    height: 10%;
+    justify-content: space-between;
+    width: 106.5%;
+    background-color: white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
+
+.client-logo{
+    display: flex;
+    margin-top: 1%;
+    height: 50%;
+}
+.client-logo .logof{
+    border-radius: 50px;
+}
+
+.setting{
+    display: flex;
+    width: 30%; 
+}
+.setting1{
+    width: 100%;
+    height: 100%;
+    display: flex;
+}
+.setting1.logo3{
+    margin-left: 20px;
+}
+.setting2{
+    width: 100%;
+    height: 100%;
+    display: flex;
+}
+
+.sidebar{
+    display: flex;
+    flex-direction: column;
+    height: 97vh;
+    width: 4%;
+    background: linear-gradient(45deg, rgb(118, 197, 246), rgb(55, 150, 238));
+    
+}
+
+.sidebar a{
+    color: white;
+}
+.sidebar img{
+    height: 5%;
+    width: 80%;
+    margin-top: 20%;
+    border-radius: 100%;
+    margin-left: 5px;
+}
+.pages{
+    display: flex;
+    margin-top: 35%;
+    flex-direction: column;
+    justify-content: center;
+    
+}
+.pages a{
+      padding: 20%;
+      display: inline-block;
+      text-decoration: none;
+}
+   a:hover {
+      background-color: rgb(255, 255, 255);
+      color: blue;
+    }
+
+ 

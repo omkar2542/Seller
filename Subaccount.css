@@ -1,0 +1,29 @@
+.sub-1{
+    width: 50%;
+    height: 7vh;
+    border-radius: 20px;
+    margin-left: 1%;
+    margin-top: 1%;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    text-align: center;
+    background: linear-gradient(30deg, rgb(7, 19, 248), rgb(74, 158, 243));
+    color: rgb(255, 255, 255);
+}
+
+.acc-count-1{
+   margin-top: 4%;
+    text-align: center;
+    font-size: large;
+    border: white;
+    font-weight: 500;
+    display: flex;
+    justify-content: center;
+}
+.numbers-a{
+    background-color: aliceblue;
+    color: blue;
+    width: 15%;
+    height: 100%;
+    margin-left: 3%;
+    border-radius: 30%;
+}

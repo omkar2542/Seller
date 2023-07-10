@@ -1,0 +1,35 @@
+.sidebar{
+    display: flex;
+    flex-direction: column;
+    width: 5%;
+    background: linear-gradient(60deg, rgb(88, 185, 245), rgb(69, 69, 243));
+    
+}
+
+.sidebar a{
+    color: white;
+}
+.sidebar img{
+    height: 5%;
+    width: 80%;
+    margin-top: 10%;
+    border-radius: 100%;
+    margin-left: 5px;
+}
+.pages{
+    display: flex;
+    margin-top: 15%;
+    flex-direction: column;
+    justify-content: center;
+    
+}
+.pages a{
+      padding: 20%;
+      display: inline-block;
+      text-decoration: none;
+}
+   a:hover {
+      background-color: rgb(255, 255, 255);
+      color: blue;
+    }
+ 
